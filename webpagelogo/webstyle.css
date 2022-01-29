@@ -1,0 +1,17 @@
+body{
+color: rgb(5, 0, 0);
+}
+
+
+h1{
+    font-size: 50px;
+    margin: 10px;
+} 
+p{
+    float: left;
+    width: 100%;
+    background-color: #f8fbfc;
+}
+
+
+}
